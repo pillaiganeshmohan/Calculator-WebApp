@@ -10,3 +10,9 @@ Welcome to the Calculator Web App, a simple and user-friendly web application fo
 ![2](https://github.com/pillaiganeshmohan/Calculator-WebApp/assets/68379838/2aa6d8c8-a272-4e49-acb2-e0ad659af621)
 
 ![3](https://github.com/pillaiganeshmohan/Calculator-WebApp/assets/68379838/6bf0339e-84af-4e7d-8958-8399c2f45b41)
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the **Apache-2.0 License**. See the [LICENSE](./LICENSE) file for details.
